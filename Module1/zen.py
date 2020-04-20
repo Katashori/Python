@@ -1,0 +1,1 @@
+print("Zen Of Python")
